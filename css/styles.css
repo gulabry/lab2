@@ -118,6 +118,11 @@ nav a:hover {
 	text-decoration: underline;
 }
 
+.personpic{
+	float:left;
+	overflow: hidden;
+}
+
 
 
 
